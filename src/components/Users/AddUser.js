@@ -1,4 +1,4 @@
-//using refs
+//using refs  -- uncontrolled component
 //commented next using usestate
 import { useState, useRef } from 'react';
 import Button from '../UI/Button';
@@ -65,7 +65,7 @@ export default AddUser;
 
 /*-----------------------------*/
 
-//using usestate
+//using usestate - controlled component
 //import { useState, useRef } from 'react';
 //import Button from '../UI/Button';
 //import Card from '../UI/Card';
